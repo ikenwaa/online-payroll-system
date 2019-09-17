@@ -1,0 +1,13 @@
+.carousel-item {
+  background-image: linear-gradient(rgba(85, 85, 85, 0.37), rgba(0, 0, 0, 0.7)),
+    url(https://images.pexels.com/photos/990818/pexels-photo-990818.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  height: 90vh;
+  min-width: 100%;
+}
+
+.header-text {
+  position: absolute;
+  top: -254px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}

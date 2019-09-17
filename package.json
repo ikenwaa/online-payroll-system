@@ -1,0 +1,11 @@
+{
+  "name": "online-payroll-system",
+  "version": "1.0.0",
+  "description": "A payroll system to store employees payment information and details.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Augustine Ikenwa",
+  "license": "ISC"
+}
